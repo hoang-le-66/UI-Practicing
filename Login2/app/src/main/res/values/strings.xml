@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login2</string>
+    <string name="hello">Hello World</string>
+    <string name="text_signup">Don\'t have account? <b>Sign-up</b></string>
+    <string name="password">Password</string>
+    <string name="re_password">Re-Password</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+</resources>
