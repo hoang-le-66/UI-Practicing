@@ -6,4 +6,5 @@
     <string name="re_password">Re-Password</string>
     <string name="username">Username</string>
     <string name="email">Email</string>
+    <string name="forget_pass">Forget your password?<b>Click here</b></string>
 </resources>
